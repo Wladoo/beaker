@@ -50,7 +50,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Wladoo/beaker](https://github.com/Wladoo/beaker)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|59<br/>Tools used|02/25/24 <br/>Report generated|
+|59<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
